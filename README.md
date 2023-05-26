@@ -1,10 +1,8 @@
-##  Hello there!
+##  Olá Pessoal!
 
-My name is Igor Damião and I'm a Software Engineering student based in Brazil. I have a great passion for programming and I'm particularly interested in Java back-end development and DevOps.
+Meu nome é Igor Damião, sou um estudante de Engenharia de Software e estou iniciando no mundo da tecnologia.
 
-Through my journey as a student, I've acquired a solid foundation in various programming languages, data structures, algorithms, and software engineering principles. I am continuously seeking opportunities to sharpen my skills and keep up with the latest industry trends.
-
-On this GitHub profile, you'll find some of my projects that showcase my skills and experience. Feel free to take a look and explore my code. If you have any questions or would like to collaborate on a project, please don't hesitate to reach out to me.
+Neste perfil do GitHub, você encontrará alguns dos meus projetos que mostram minhas habilidades e experiência. Fique à vontade para dar uma olhada e explorar meu código. Se você tiver alguma dúvida ou quiser colaborar em um projeto, não hesite em entrar em contato comigo.
 
 <div align="center">
   <a href="https://github.com/igorkDS">
